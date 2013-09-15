@@ -1,0 +1,8 @@
+{
+    "name": "phpbakery/pmtatools",
+    "autoload": {
+        "psr-0" : {
+            "PHPBakery\\PMTATools" : "src"
+        }
+    }
+}
